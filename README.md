@@ -1,5 +1,5 @@
 
-### Hi there!
+# Hi there!
 - I’m currently working on SberDevices
 - Bachelor of CMC MSU
 - 21 y.o.
