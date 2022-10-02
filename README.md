@@ -1,6 +1,6 @@
 
 # Hi there!
-- I’m currently working on SberDevices
+- I’m currently working as a Python backend developer
 - Bachelor of CMC MSU
 - 21 y.o.
 - Moscow, Russia
